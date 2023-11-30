@@ -1,0 +1,52 @@
+.container {
+    margin-top: 10px; 
+}
+
+
+.navbar {
+    background-color: #343a40; 
+    border-bottom: 1px solid #ffffff; 
+}
+
+#titulo_nave {
+    font-size: 1.8rem; 
+}
+
+
+.navbar-nav .nav-link {
+    color: #ffffff; 
+    margin: 0 15px; 
+}
+
+
+.navbar-nav .nav-link:hover {
+    color:violet; 
+}
+
+/*  */
+.navbar-nav .nav-item.active .nav-link {
+    font-weight: bold; 
+}
+
+/* Estilos para el formulario de inicio de sesión y registro */
+form {
+    max-width: 400px; 
+    margin: 0 auto; 
+}
+
+
+
+/* Estilos para los botones  */
+.btn:hover {
+    background-color: #343a40; 
+    color: #ffffff; 
+    border: 1px solid #ffffff; 
+}
+
+#titulo_inicio{
+    text-align: center;
+}
+
+footer{
+    color: violet;
+}
